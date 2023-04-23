@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="GF2D" Version="1.0.5" />
+    <PackageReference Include="GF2D" Version="1.0.5.1" />
   </ItemGroup>
 
 </Project>
